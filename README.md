@@ -75,4 +75,4 @@ See the [Third party libraries](https://cloud.google.com/appengine/docs/python/t
 Fork, make changes, submit pull request :D
 
 ## License
-https://cloud.google.com/appengine/downloads
+[MIT](http://alyssaq.github.io/mit-license/)
