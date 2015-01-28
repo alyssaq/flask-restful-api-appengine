@@ -44,7 +44,7 @@ See the README file for directions. You'll need python 2.7 and [pip 1.4 or later
 4. Run this project locally using Google App Launcher or from the command line (symlinks can be created from the launcher):
 
 ```
-   dev_appserver.py .
+   dev_appserver.py . --skip_sdk_update_check=yes
 ```
 
 Visit the application at: <http://localhost:8080>
