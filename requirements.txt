@@ -4,5 +4,5 @@
 # in `lib/` subdirectory.
 #
 # Note: The `lib` directory is added to `sys.path` by `appengine_config.py`.
-flask==0.10
+flask==0.10.1
 Flask-HTTPAuth==1.0.0
